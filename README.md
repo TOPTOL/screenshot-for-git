@@ -15,3 +15,4 @@
 <img width="457" alt="Screenshot 2023-07-16 053021" src="https://github.com/TOPTOL/screenshot-for-git/assets/139611225/0c1806e5-370c-4977-a13e-a187c99351cb">
 <img width="461" alt="Screenshot 2023-07-16 053215" src="https://github.com/TOPTOL/screenshot-for-git/assets/139611225/52591966-7f9b-4e3d-a6fc-a6b102f2a5a6">
 <img width="440" alt="Screenshot 2023-07-16 053447" src="https://github.com/TOPTOL/screenshot-for-git/assets/139611225/04fdde04-c64b-4e1d-a6d2-9c2b7f4bdb58">
+<img width="676" alt="Screenshot 2023-07-16 053850" src="https://github.com/TOPTOL/screenshot-for-git/assets/139611225/e5a5df5c-d6a1-4c9a-a71f-fdaa328e1052">
